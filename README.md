@@ -3,7 +3,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/get/@SyedSabir895?theme=gelbooru-h"> <br/>
+	<img src="https://count.getloli.com/get/@SyedSabir895?theme=morden-num"> <br/>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsabir895" alt="syedsabir895" /></a> </p>
 
