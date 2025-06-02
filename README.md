@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Syed Sabir</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedsabir895&label=Profile%20views&color=0e75b6&style=flat" alt="syedsabir895" /> </p>
-
+<h3 align="center">👀 Total Profile Visits 👀</h3>
+<p align="center">
+	<img src="https://count.getloli.com/get/@SyedSabir895?theme=gelbooru-h"> <br/>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsabir895" alt="syedsabir895" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Next JS, Flask, Spring, SpringBoot.**
