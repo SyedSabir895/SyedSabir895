@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://github.com/SyedSabir895">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPKrishna28&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedSabir895&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
   </a>
 </p>
