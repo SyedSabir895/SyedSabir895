@@ -31,6 +31,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedsabir895&" alt="syedsabir895" /></p>
 
-
-
-
+<p align="center">
+  <a href="https://github.com/SyedSabir895">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPKrishna28&theme=dracula&bg_color=1F222E&hide_border=true" alt="Contribution Graph" />
+  </a>
+</p>
