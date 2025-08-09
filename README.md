@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, Next JS, Flask, Spring, SpringBoot.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ten-ochre-77.vercel.app/](https://portfolio-ten-ochre-77.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ten-ochre-77.vercel.app/](https://sabir-site.netlify.app/)
 
 - 💬 Ask me about **Python,C,Java**
 
