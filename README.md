@@ -5,7 +5,7 @@
 <p align="center">
 	<img src="https://count.getloli.com/get/@SyedSabir895?theme=sketch-1"> <br/>
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsabir895" alt="syedsabir895" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedsabir895" alt="syedsabir895" /></a> </p>--!>
 
 - 🌱 I’m currently learning **React JS, Next JS, Flask, Spring, SpringBoot.**
 
